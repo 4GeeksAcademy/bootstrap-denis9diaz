@@ -1,0 +1,17 @@
+img {
+    object-fit: cover;
+    height: 380px;
+    width: 100%;
+  }
+
+  .card-text {
+    text-align: left;
+  }
+
+  .description {
+    text-align: left;
+  }
+  
+  .title-card {
+    text-align: left;
+  }
